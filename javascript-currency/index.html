@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Currency</title>
+</head>
+
+<body>
+    <label for="input">Masukan Integer : </label>
+    <input id="myInput" type="number" onkeydown="myFunction(this.value)" /> <br>
+    <h3>Output : <span id="output"></span></h3>
+    <script>
+        function myFunction(val) {
+            if (val) {
+                document.getElementById("output").innerHTML = `Rp ${parseInt(val).toLocaleString("id-ID")}`;
+            }
+
+            // Easy Way
+            // const uang = 1000000
+            // console.log(`Rp ${uang.toLocaleString("id-ID")}`);
+            // // Rp 1.000.000
+        }
+    </script>
+</body>
+
+</html>
