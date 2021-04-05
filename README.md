@@ -1,4 +1,4 @@
-[![March Instagram Posts](banner.jpg)](https://github.com/nusantarakoding/instagram-post-march/)
+[![March Instagram Posts](banner.png)](https://github.com/nusantarakoding/instagram-post-march/)
 
 <div align=center>
 
@@ -16,11 +16,11 @@ Repositori ini adalah "kodingan" untuk semua postingan kami di bulan **Maret 202
 
 ## Cara berkontribusi
 
-- Star repositori ini dulu dong, lumayan kan untuk resource kalian hehe
+- Star repositori ini dulu dong, lumayan untuk menambah resource kalian 🌟
 - Clone repositori kita `git clone [repository_url]`
 - Buat branch baru kamu sendiri `git checkout -b [nama_branch]`
 - Buat folder tips, tricks atau panduan dan screenshot output program kamu sendiri dalam folder tersebut `mkdir [nama_folder]`
 - Buat folder _markdown_ berisikan nama kamu dan username instagram untuk kita mention di setiap postnya!
 - Jangan lupa yang terakhir, buat _merge request_ ke repositori kita untuk mensubmit kontribusi kamu!
 
-**Selamat Berkontribusi!🔥**
+**Selamat Berkontribusi! 👨‍💻🎉**
