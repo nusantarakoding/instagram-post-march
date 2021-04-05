@@ -4,7 +4,7 @@
 
 ---
 
-Made with :fire: by [Nusantara Koding](https://github.com/nusantarakoding).
+Made with :fire: by [Nusantara Koding](https://instagram.com/nusantarakoding).
 
 </div>
 <br>
@@ -20,7 +20,7 @@ Repositori ini adalah "kodingan" untuk semua postingan kami di bulan **Maret 202
 - Clone repositori kita `git clone [repository_url]`
 - Buat branch baru kamu sendiri `git checkout -b [nama_branch]`
 - Buat folder tips, tricks atau panduan dan screenshot output program kamu sendiri dalam folder tersebut `mkdir [nama_folder]`
-- Buat folder _markdown_ berisikan nama kamu dan username instagram untuk kita mention di setiap postnya!
+- Buat folder _markdown_ berisikan nama kamu dan username instagram untuk kita mention di setiap postnya lho!
 - Jangan lupa yang terakhir, buat _merge request_ ke repositori kita untuk mensubmit kontribusi kamu!
 
 **Selamat Berkontribusi! 👨‍💻🎉**
