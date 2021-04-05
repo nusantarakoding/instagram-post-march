@@ -6,7 +6,9 @@
 
 Made with :fire: by [Nusantara Koding](https://github.com/nusantarakoding).
 
-</div> \
+</div>
+<br>
+<br>
 
 # Selamat Datang di Nusantara Koding🇮🇩🚀
 
